@@ -44,3 +44,8 @@ section{
     color: white;
     padding: 10px 35px;
 }
+.middle-part{
+    background-image: url(/fram2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
