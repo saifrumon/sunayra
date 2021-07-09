@@ -11,7 +11,7 @@ h3{
 .orange-color{
     color: orange;
 }
-section{
+.container{
     display: flex;
     text-align: justify;
     
@@ -48,4 +48,12 @@ section{
     background-image: url(/fram2.png);
     background-repeat: no-repeat;
     background-size: 100%;
+}
+#box-1{
+    width: 40%;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 20px;
+    box-shadow: 10px 15px 20px gray;
+
 }
