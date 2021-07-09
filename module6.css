@@ -8,3 +8,39 @@ h1{
 h3{
     font-size: 30px;
 }
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+    text-align: justify;
+    
+}
+.top-part{
+    background-image: url(/fram1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.half-width{
+    width: 45%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+    padding-left: 10%;
+   
+}
+.box{
+    margin: 50px;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding: 10px 35px;
+}
